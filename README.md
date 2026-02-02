@@ -35,14 +35,24 @@ The main goal of this project is to practice:
 - **Git & GitHub** – Version control and project hosting  
 
 
-## 📂 Project Structure
-ID-Card-Project/
-│
-├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ └── images/
-│ └── profile-image.png
-│
-└── README.md
+🖼️ Project Preview
+
+(You can add a screenshot of your ID card UI here)
+
+
+🚀 Future Improvements
+Add dynamic data using JavaScript
+Generate QR code dynamically
+Multiple ID card layouts
+Print-friendly version
+Backend integration for real employee data
+
+
+👩‍💻 Author
+Jyoti Mishra
+Software Developer (Frontend Enthusiast)
+GitHub: [github.com/Jyotimishra34]
+LinkedIn: [https://www.linkedin.com/in/jyoti-mishra]
+
+📜 License
+This project is for learning and practice purposes.
