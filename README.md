@@ -36,4 +36,13 @@ The main goal of this project is to practice:
 
 
 ## 📂 Project Structure
-
+ID-Card-Project/
+│
+├── index.html
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ └── images/
+│ └── profile-image.png
+│
+└── README.md
