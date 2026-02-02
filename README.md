@@ -35,24 +35,36 @@ The main goal of this project is to practice:
 - **Git & GitHub** – Version control and project hosting  
 
 
-🖼️ Project Preview
 
-(You can add a screenshot of your ID card UI here)
+## 🖼️ Project Preview
 
+Below is a preview of the Employee ID Card UI created using **HTML, CSS, and Bootstrap**.
 
-🚀 Future Improvements
-Add dynamic data using JavaScript
-Generate QR code dynamically
-Multiple ID card layouts
-Print-friendly version
-Backend integration for real employee data
+![ID Card UI Preview](./assets/images/id-card-preview.png)
 
 
-👩‍💻 Author
-Jyoti Mishra
-Software Developer (Frontend Enthusiast)
-GitHub: [github.com/Jyotimishra34]
-LinkedIn: [https://www.linkedin.com/in/jyoti-mishra]
+## 🚀 Future Improvements
 
-📜 License
-This project is for learning and practice purposes.
+The following enhancements can be added to improve this project in the future:
+
+- Add dynamic data using **JavaScript**
+- Generate **QR code dynamically**
+- Create **multiple ID card layouts**
+- Add a **print-friendly version**
+- Integrate a **backend** for real employee data
+
+
+## 👩‍💻 Author
+
+**Jyoti Mishra** 
+*Software Developer (Frontend Enthusiast)*
+
+- GitHub: [https://www.github.com/Jyotimishra34](https://www.github.com/Jyotimishra34)
+- LinkedIn: [https://www.linkedin.com/in/jyoti-mishra](https://www.linkedin.com/in/jyoti-mishra)
+
+
+
+## 📜 License
+
+This project is created for **learning and practice purposes only**.
+
